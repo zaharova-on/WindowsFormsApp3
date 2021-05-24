@@ -22,7 +22,7 @@ namespace WindowsFormsApp3
 
         private void button2_Click(object sender, EventArgs e)
         {
-            BackColor = Color.Red;
+            BackColor = Color.DarkCyan;
         }
 
         private void button3_Click(object sender, EventArgs e)
